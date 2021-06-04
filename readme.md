@@ -1,6 +1,6 @@
 # Proedge Task
 
-## Backend API (hosted on heroku) - https://proedge-api.herokuapp.com/{string containing comma seprated roll numbers}
+## Backend API (hosted on heroku) - https://proedge-api.herokuapp.com/result/5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
 
 This repository is backend part of Proedge Task
 Index.js file contains all the logic part of the project.

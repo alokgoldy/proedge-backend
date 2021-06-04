@@ -7,6 +7,9 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+app.get("/",(res,res)=>{
+    res.send("Welcome to proedge task backend")
+})
 
 app.get("/result/:roll",async (req,res)=>{
 
