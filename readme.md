@@ -19,5 +19,7 @@ When response is received for all the roll numbers a JSON object is created whic
 
 # Screenshots
 
-![](pics/prob1.PNG)
-![](pics/prob2.PNG)
+1. 2
+   ![](pics/prob1.PNG)
+2. 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
+   ![](pics/prob2.PNG)
